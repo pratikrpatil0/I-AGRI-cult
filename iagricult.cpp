@@ -1,4 +1,3 @@
-//Link to our Journal :- https://docs.google.com/document/d/1zDHzk9Ok60LuPakQoCOQIoBrXfgzjUC9S1_uSzLdTL8/edit?usp=sharing
 
 
 #include <iostream>
